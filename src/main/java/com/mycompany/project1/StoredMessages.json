@@ -1,0 +1,12 @@
+[
+    {
+        "recipient": "+27838884567",
+        "message": "It is dinner time!",
+        "flag": "Sent"
+    },
+    {
+        "recipient": "+27788884567",
+        "message": "Ok, I am leaving without you.",
+        "flag": "Stored"
+    }
+]
